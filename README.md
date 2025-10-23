@@ -66,7 +66,7 @@
 
 - **Blog de comentario com flask**  
   🔹 Flask + sql
-  🔹 Cadastro de usuário: criar conta com email e senha • Login/Logout: autenticação de sessão • 
+  🔹 Cadastro de usuário: criar conta com email e senha Login/Logout: autenticação de sessão 
   🔹 [Repositório](https://github.com/dalvan-de-santos/FLASK-BLOG)
 
 ## 📫 Onde me encontrar
