@@ -64,6 +64,11 @@
   🔹 Autenticação JWT e CRUD completo  
   🔹 [Repositório](https://github.com/dalvan-de-santos/WMS-Validade)
 
+- **Blog de comentario com flask**  
+  🔹 Flask + sql
+  🔹 Cadastro de usuário: criar conta com email e senha • Login/Logout: autenticação de sessão • 
+  🔹 [Repositório](https://github.com/dalvan-de-santos/FLASK-BLOG)
+
 ## 📫 Onde me encontrar
 
 - 🌐 Portfólio: [seusite.com](https://dalvan1266.pythonanywhere.com/)  
