@@ -72,7 +72,7 @@
 ## 📫 Onde me encontrar
 
 - 🌐 Portfólio: [seusite.com](https://dalvan1266.pythonanywhere.com/)  
-- 💼 LinkedIn: [linkedin.com/in/SEU_LINKEDIN]((https://www.linkedin.com/in/dalvan-santos-42319a1b2/))  
+- 💼 LinkedIn: ((https://www.linkedin.com/in/dalvan-santos-42319a1b2/))  
 - 📧 Email: dalvanc26@gmail.com  
 
 ---
