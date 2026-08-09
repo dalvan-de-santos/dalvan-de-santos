@@ -54,8 +54,7 @@
   />
 
 <img 
-  height="160" 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=dalvan-de-santos&layout=compact&theme=radical&hide_border=true"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=dalvan-de-santos&layout=compact"
   alt="Top Languages"
 />
 
