@@ -47,13 +47,28 @@
 ## 📊 Estatísticas
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=dalvan-de-santos&show_icons=true&theme=radical&hide_border=true" alt="Stats"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dalvan-de-santos&layout=compact&theme=radical&hide_border=true" alt="Top langs"/>
+  <img 
+    height="160" 
+    src="https://github-readme-stats.vercel.app/api?username=dalvan-de-santos&show_icons=true&theme=radical&hide_border=true" 
+    alt="GitHub Stats"
+  />
+
+<img 
+ height="160" 
+ src="https://github-readme-stats.vercel.app/api/top-langs/?username=dalvan-de-santos&layout=compact&theme=radical&hide_border=true" 
+ alt="Top Languages"
+/>
+
 </p>
 
 <p align="center">
-  <img height="160" src="https://streak-stats.demolab.com/?user=SEU_USUARIO&theme=radical&hide_border=true" alt="Streak"/>
+  <img 
+    height="160" 
+    src="https://streak-stats.demolab.com/?user=dalvan-de-santos&theme=radical&hide_border=true" 
+    alt="GitHub Streak"
+  />
 </p>
+
 
 ---
 
@@ -69,9 +84,7 @@
   🔹 Cadastro de usuário: criar conta com email e senha Login/Logout: autenticação de sessão 
   🔹 [Repositório](https://github.com/dalvan-de-santos/FLASK-BLOG)
 
-## 📫 Onde me encontrar
-
-- 🌐 Portfólio: [seusite.com](https://dalvan1266.pythonanywhere.com/)  
+## 📫 Onde me encontrar 
 - 💼 LinkedIn: ((https://www.linkedin.com/in/dalvan-santos-42319a1b2/))  
 - 📧 Email: dalvanc26@gmail.com  
 
