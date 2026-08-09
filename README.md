@@ -47,16 +47,18 @@
 ## 📊 Estatísticas
 
 <p align="center">
-  <img 
-    height="160" 
-    src="https://github-readme-stats.vercel.app/api?username=dalvan-de-santos&show_icons=true&theme=radical&hide_border=true" 
+  <img
+    height="160"
+    src="https://github-readme-stats.vercel.app/api?username=dalvan-de-santos&show_icons=true&theme=radical&hide_border=true"
     alt="GitHub Stats"
   />
 
-<img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=dalvan-de-santos&layout=compact"
-  alt="Top Languages"
-/>
+  <img
+    height="160"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=dalvan-de-santos&layout=compact&theme=radical&hide_border=true"
+    alt="Top Languages"
+  />
+</p>
 
 </p>
 
